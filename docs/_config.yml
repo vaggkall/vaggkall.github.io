@@ -21,9 +21,7 @@
 title: Drugs and narcotics story
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The analysis is based on the San Francisco Police Department’s Incident Reports Historical dataset. The dataset offers a glimpse into San Francisco’s public safety over the years, containing detailed records of police incident reports spanning back to 2003. From incidents of theft and vandalism to more serious offenses such as assault and homicide, the dataset covers a wide range of criminal activity and incidents that have occurred in the city. With information on the date, time, location, and other relevant details for each reported incident, the dataset is a valuable resource for researchers, analysts, and law enforcement agencies alike, providing insights into crime patterns, trends, and policy decisions. <In this analysis, the focus will be on narcotics data.> (different font or color to make it visible to the eye)
 domain: my-site.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

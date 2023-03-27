@@ -19,14 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Drugs and narcotics story
-email: your-email@example.com
+author: Meriam Amjed Qassem Al-Shawi, Evangelos Kalimantzalis-Lianas, Ásmundur Jóhannsson
+email: s194653@student.dtu.dk, s210260@student.dtu.dk, s213731@student.dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
-  The analysis is based on the San Francisco Police Department’s Incident Reports Historical dataset. The dataset offers a glimpse into San Francisco’s public safety over the years, containing detailed records of police incident reports spanning back to 2003. From incidents of theft and vandalism to more serious offenses such as assault and homicide, the dataset covers a wide range of criminal activity and incidents that have occurred in the city. With information on the date, time, location, and other relevant details for each reported incident, the dataset is a valuable resource for researchers, analysts, and law enforcement agencies alike, providing insights into crime patterns, trends, and policy decisions. <In this analysis, the focus will be on narcotics data.> (different font or color to make it visible to the eye)
+ This website features compelling stories about narcotics and drug data, providing valuable insights into their impact on our society.
 domain: my-site.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
 
 # Build settings
 theme: minima
